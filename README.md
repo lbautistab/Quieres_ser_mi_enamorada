@@ -58,8 +58,6 @@ También puedes utilizar la extensión **Live Server** de Visual Studio Code par
 
 ## ❤️ Un pequeño mensaje
 
-Te enseño cómo pedirle que sea tu enamorada.
-
 Esta técnica tiene una efectividad del 100%.
 
 **¡Buena suerte, soldado!** 🫡💘
